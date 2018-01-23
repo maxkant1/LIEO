@@ -1,0 +1,15 @@
+CREDITS
+Thanks to:
+The CORINE project (CLC Landclass data), OpenStreetMap project (Street, railroad and landmass data), USGS.GOV archive (SRTM-3 Elevation data).
+Adri… Gomez Andreu	for his nice static aircrafts (A320 Vueling, Citation II, Bombardier global express, Falcon 7, Learjet, 737-800 BBJ (livery by me), Beechcraft King Air 200) and for his nice static vehicles (groundforce Bus, airstairs, van white, Honda cr silver)
+Bertrand Augras	for his nice static models (A310-services, B737 Air Berlin, firefighter dragon and                               pushback)
+Emmanuel Baranger	for the fantastic water bomber Bombardier 415
+E. Baranger/F. Bouvier	for the conversion of airport light from the original work of D. Lemesre
+Andre Burkert	for his static firefighting vehicles (RW GWG MAN and ELW sprinter 215)
+David Glowsky		for his static model van blue
+Roberto Inzerillo	for his special Ferry model (Tirrenia and Moby liveries by me)
+Christian Thiriot	for his nice static aircrafts (Cessna red and blue and DR400 dauphin and blue)
+Unknown	for md-80 AI aircraft from which I derived the static md-80 model (Meridiana livery by me)
+Special thanks to Gary Neely (aka Bokaroo in fg community) and Andino Gonthaeler (aka Andino in fg community) for the initial development and the improvement of the fantastic md-80 series. 
+And thanks to all fantastic FG people that helps to develop, maintain and improve this wonderful flight simulator.
+Maxkant1
