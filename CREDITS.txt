@@ -5,9 +5,9 @@ Thanks to:
 The CORINE project (CLC Landclass data), OpenStreetMap project (Street, railroad and landmass data), USGS.GOV archive 
 (SRTM-3 Elevation data).
 
-Adria Gomez Andreu	    for his nice static aircrafts (A320 Vueling, Citation II, Bombardier global express, Falcon 7, 
-                        Learjet, 737-800 BBJ (livery by me), Beechcraft King Air 200) and for his nice static vehicles 
-                        (groundforce Bus, airstairs, van white, Honda cr silver)
+Adria Gomez Andreu			for his nice static aircrafts (A320 Vueling, Citation II, Bombardier global express, Falcon 7, 
+												Learjet, 737-800 BBJ (livery by me), Beechcraft King Air 200) and for his nice static vehicles 
+												(groundforce Bus, airstairs, van white, Honda cr silver)
                     
 Bertrand Augras	        for his nice static models (A310-services, B737 Air Berlin, firefighter dragon and pushback)
 
