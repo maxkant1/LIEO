@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <scenario>
+  <name>ferry at LIEO</name>
+  <description>
+     Ferry at Olbia harbour
+  </description>
+  <entry>
+   <type>ship</type>
+   <model>Models/Maritime/Civilian/tirrenia.xml</model>
+   <turn-radius-ft>150</turn-radius-ft>
+   <flightplan>Tirrenia_Olbia.xml</flightplan>
+   <repeat>0</repeat>
+  </entry>
+ </scenario>
+</PropertyList>

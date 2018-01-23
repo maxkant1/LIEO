@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+
+<PropertyList>
+
+	<flightplan>
+
+		<wpt>
+			<name>Olbia8-Turn2</name>
+			<lat>40.92349873908768</lat>
+			<lon>9.595705823722739</lon>
+			<alt>2.5</alt>
+			<ktas>20</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia7-inbound</name>
+			<lat>40.92350069081444</lat>
+			<lon>9.575842296951585</lon>
+			<alt>2.5</alt>
+			<ktas>20</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia6-Inbound</name>
+			<lat>40.92141057106585</lat>
+			<lon>9.55496092653874</lon>
+			<alt>2.5</alt>
+			<ktas>20</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia5-inbound</name>
+			<lat>40.92141702647641</lat>
+			<lon>9.554975687648375</lon>
+			<alt>2.5</alt>
+			<ktas>15</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+
+		<wpt>
+			<name>Olbia4-inbound</name>
+			<lat>40.92116728611272</lat>
+			<lon>9.535618563543721</lon>
+			<alt>2.5</alt>
+			<ktas>15</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia3-inbound</name>
+			<lat>40.92062133887255</lat>
+			<lon>9.528367426077773</lon>
+			<alt>2.5</alt>
+			<ktas>10</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia-turn</name>
+			<lat>40.91903039815055</lat>
+			<lon>9.528860083092736</lon>
+			<alt>2.5</alt>
+			<ktas>5</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia-man</name>
+			<lat>40.92171178952108</lat>
+			<lon>9.528038331285115</lon>
+			<alt>2.5</alt>
+			<ktas>-2.5</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia-dockin</name>
+			<lat>40.921883</lat>
+			<lon>9.523601</lon>
+			<alt>2.5</alt>
+			<ktas>-2.5</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+		<wpt>
+			<name>Olbia-fin</name>
+			<lat>40.9218</lat>
+			<lon>9.5208</lon>
+			<alt>2.5</alt>
+			<ktas>-2.5</ktas>
+			<on-ground>false</on-ground>
+		</wpt>
+
+
+		<wpt>
+			<name>END</name>
+		</wpt>
+
+	</flightplan>
+
+</PropertyList>
