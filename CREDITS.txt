@@ -1,4 +1,4 @@
-CREDITS
+# CREDITS
 
 Thanks to:
 
