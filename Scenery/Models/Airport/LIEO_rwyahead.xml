@@ -1,0 +1,21 @@
+<PropertyList>
+ <path>LIEO_rwyahead.ac</path>
+
+ <animation>
+   <type>noshadow</type>
+   <object-name>blah</object-name>
+ </animation>
+
+ <animation>
+   <object-name>blah</object-name>
+   <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+   <type>range</type>
+   <object-name>blah</object-name>
+   <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+ </animation>
+
+</PropertyList>
