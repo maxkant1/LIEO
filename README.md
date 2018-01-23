@@ -14,6 +14,7 @@ What you get:
 Known issues:
 
 •	No animated jetways (help from animated jetways gurus needed)
+
 •	Some tearing in the ground. Some continuity problem along boundaries with next tiles (hopefully should disappear when inserted in general scenario – help from Terragear gurus needed)
 
 Comments and suggestions welcome in the forum and to the following address maxkant1.fg@gmail.com
