@@ -17,7 +17,7 @@ Known issues:
 
 •	Some tearing in the ground. Some continuity problem along boundaries with next tiles (hopefully should disappear when inserted in general scenario – help from Terragear gurus needed)
 
-Comments and suggestions welcome in the forum and to the following address maxkant1.fg@gmail.com
+Comments and suggestions welcome in the forum https://forum.flightgear.org/ and to the following address maxkant1.fg@gmail.com
 
 Thank you for downloading and trying, have fun!
 
