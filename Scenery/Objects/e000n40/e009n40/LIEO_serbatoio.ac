@@ -1,0 +1,509 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "default" rgb 0.5 0.5 0.5  amb 0.4 0.4 0.4  emis 0 0 0  spec 0.6 0.584 0.58  shi 128  trans 0
+MATERIAL "ac3dmat0" rgb 0.862745 0.847059 0.862745  amb 0.2 0.2 0.2  emis 0 0 0  spec 0 0 0  shi 128  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "LIEO_serbatoio.png"
+crease 45.000000
+numvert 40
+7.25 6 -0.75
+7.75 0 -0.75
+7.25 0 -0.75
+7.75 6 -0.75
+7.75 6 -0.25
+7.25 0 -0.25
+7.75 0 -0.25
+7.25 6 -0.25
+7.25 6 -3.25
+7.75 0 -3.25
+7.25 0 -3.25
+7.75 6 -3.25
+7.75 6 -2.75
+7.75 0 -2.75
+7.25 0 -2.75
+7.25 6 -2.75
+2.25 6 -3.25
+2.75 0 -3.25
+2.25 0 -3.25
+2.75 6 -3.25
+2.75 6 -2.75
+2.75 0 -2.75
+2.25 0 -2.75
+2.25 6 -2.75
+0 6 -3.5
+0 6 0
+10 6 -3.5
+2.75 6 -0.75
+2.75 6 -0.25
+2.25 6 -0.25
+10 6 0
+2.25 6 -0.75
+0 9.8 -3.5
+10 9.8 -3.5
+10 9.8 0
+0 9.8 0
+2.75 0 -0.75
+2.25 0 -0.75
+2.75 0 -0.25
+2.25 0 -0.25
+numsurf 76
+SURF 0x10
+mat 1
+refs 3
+0 0 0
+1 0 0
+2 0 0
+SURF 0x10
+mat 1
+refs 3
+1 0 0
+0 0 0
+3 0 0
+SURF 0x10
+mat 1
+refs 3
+4 0 0
+5 0 0
+6 0 0
+SURF 0x10
+mat 1
+refs 3
+5 0 0
+4 0 0
+7 0 0
+SURF 0x10
+mat 1
+refs 3
+0 0 0
+5 0 0
+7 0 0
+SURF 0x10
+mat 1
+refs 3
+5 0 0
+0 0 0
+2 0 0
+SURF 0x10
+mat 1
+refs 3
+1 0 0
+4 0 0
+6 0 0
+SURF 0x10
+mat 1
+refs 3
+4 0 0
+1 0 0
+3 0 0
+SURF 0x10
+mat 1
+refs 3
+1 0 0
+5 0 0
+2 0 0
+SURF 0x10
+mat 1
+refs 3
+5 0 0
+1 0 0
+6 0 0
+SURF 0x10
+mat 1
+refs 3
+8 0 0
+9 0 0
+10 0 0
+SURF 0x10
+mat 1
+refs 3
+9 0 0
+8 0 0
+11 0 0
+SURF 0x10
+mat 1
+refs 3
+9 0 0
+12 0 0
+13 0 0
+SURF 0x10
+mat 1
+refs 3
+12 0 0
+9 0 0
+11 0 0
+SURF 0x10
+mat 1
+refs 3
+12 0 0
+14 0 0
+13 0 0
+SURF 0x10
+mat 1
+refs 3
+14 0 0
+12 0 0
+15 0 0
+SURF 0x10
+mat 1
+refs 3
+8 0 0
+14 0 0
+15 0 0
+SURF 0x10
+mat 1
+refs 3
+14 0 0
+8 0 0
+10 0 0
+SURF 0x10
+mat 1
+refs 3
+9 0 0
+14 0 0
+10 0 0
+SURF 0x10
+mat 1
+refs 3
+14 0 0
+9 0 0
+13 0 0
+SURF 0x10
+mat 1
+refs 3
+16 0 0
+17 0 0
+18 0 0
+SURF 0x10
+mat 1
+refs 3
+17 0 0
+16 0 0
+19 0 0
+SURF 0x10
+mat 1
+refs 3
+17 0 0
+20 0 0
+21 0 0
+SURF 0x10
+mat 1
+refs 3
+20 0 0
+17 0 0
+19 0 0
+SURF 0x10
+mat 1
+refs 3
+20 0 0
+22 0 0
+21 0 0
+SURF 0x10
+mat 1
+refs 3
+22 0 0
+20 0 0
+23 0 0
+SURF 0x10
+mat 1
+refs 3
+16 0 0
+22 0 0
+23 0 0
+SURF 0x10
+mat 1
+refs 3
+22 0 0
+16 0 0
+18 0 0
+SURF 0x10
+mat 1
+refs 3
+17 0 0
+22 0 0
+18 0 0
+SURF 0x10
+mat 1
+refs 3
+22 0 0
+17 0 0
+21 0 0
+SURF 0x10
+mat 0
+refs 3
+24 0 0
+16 0 0
+25 0 0
+SURF 0x10
+mat 0
+refs 3
+16 0 0
+24 0 0
+26 0 0
+SURF 0x10
+mat 0
+refs 3
+16 0 0
+26 0 0
+19 0 0
+SURF 0x10
+mat 0
+refs 3
+19 0 0
+26 0 0
+8 0 0
+SURF 0x10
+mat 0
+refs 3
+19 0 0
+8 0 0
+20 0 0
+SURF 0x10
+mat 0
+refs 3
+20 0 0
+8 0 0
+27 0 0
+SURF 0x10
+mat 0
+refs 3
+27 0 0
+8 0 0
+28 0 0
+SURF 0x10
+mat 0
+refs 3
+8 0 0
+26 0 0
+11 0 0
+SURF 0x10
+mat 0
+refs 3
+11 0 0
+26 0 0
+12 0 0
+SURF 0x10
+mat 0
+refs 3
+12 0 0
+26 0 0
+3 0 0
+SURF 0x10
+mat 0
+refs 3
+3 0 0
+26 0 0
+4 0 0
+SURF 0x10
+mat 0
+refs 3
+25 0 0
+29 0 0
+30 0 0
+SURF 0x10
+mat 0
+refs 3
+29 0 0
+25 0 0
+16 0 0
+SURF 0x10
+mat 0
+refs 3
+29 0 0
+16 0 0
+23 0 0
+SURF 0x10
+mat 0
+refs 3
+29 0 0
+23 0 0
+31 0 0
+SURF 0x10
+mat 0
+refs 3
+30 0 0
+29 0 0
+28 0 0
+SURF 0x10
+mat 0
+refs 3
+30 0 0
+28 0 0
+7 0 0
+SURF 0x10
+mat 0
+refs 3
+7 0 0
+28 0 0
+8 0 0
+SURF 0x10
+mat 0
+refs 3
+7 0 0
+8 0 0
+15 0 0
+SURF 0x10
+mat 0
+refs 3
+7 0 0
+15 0 0
+0 0 0
+SURF 0x10
+mat 0
+refs 3
+30 0 0
+7 0 0
+4 0 0
+SURF 0x10
+mat 0
+refs 3
+30 0 0
+4 0 0
+26 0 0
+SURF 0x10
+mat 0
+refs 3
+12 0 0
+0 0 0
+15 0 0
+SURF 0x10
+mat 0
+refs 3
+0 0 0
+12 0 0
+3 0 0
+SURF 0x10
+mat 0
+refs 3
+20 0 0
+31 0 0
+23 0 0
+SURF 0x10
+mat 0
+refs 3
+31 0 0
+20 0 0
+27 0 0
+SURF 0x10
+mat 0
+refs 3
+32 0.047343 0.955217
+26 0.834299 0.660435
+24 0.047343 0.660435
+SURF 0x10
+mat 0
+refs 3
+26 0.834299 0.660435
+32 0.047343 0.955217
+33 0.834299 0.955217
+SURF 0x10
+mat 2
+refs 3
+26 0 0
+34 0 0
+30 0 0
+SURF 0x10
+mat 2
+refs 3
+34 0 0
+26 0 0
+33 0 0
+SURF 0x10
+mat 0
+refs 3
+34 0.826132 0.964829
+25 0.0509311 0.660348
+30 0.826132 0.660348
+SURF 0x10
+mat 0
+refs 3
+25 0.0509311 0.660348
+34 0.826132 0.964829
+35 0.0509311 0.964829
+SURF 0x10
+mat 2
+refs 3
+32 0 0
+25 0 0
+35 0 0
+SURF 0x10
+mat 2
+refs 3
+25 0 0
+32 0 0
+24 0 0
+SURF 0x10
+mat 0
+refs 3
+34 0.83061 0.359432
+32 0.0482109 0.632555
+35 0.0482109 0.359432
+SURF 0x10
+mat 0
+refs 3
+32 0.0482109 0.632555
+34 0.83061 0.359432
+33 0.83061 0.632555
+SURF 0x10
+mat 1
+refs 3
+31 0 0
+36 0 0
+37 0 0
+SURF 0x10
+mat 1
+refs 3
+36 0 0
+31 0 0
+27 0 0
+SURF 0x10
+mat 1
+refs 3
+36 0 0
+28 0 0
+38 0 0
+SURF 0x10
+mat 1
+refs 3
+28 0 0
+36 0 0
+27 0 0
+SURF 0x10
+mat 1
+refs 3
+28 0 0
+39 0 0
+38 0 0
+SURF 0x10
+mat 1
+refs 3
+39 0 0
+28 0 0
+29 0 0
+SURF 0x10
+mat 1
+refs 3
+31 0 0
+39 0 0
+29 0 0
+SURF 0x10
+mat 1
+refs 3
+39 0 0
+31 0 0
+37 0 0
+SURF 0x10
+mat 1
+refs 3
+36 0 0
+39 0 0
+37 0 0
+SURF 0x10
+mat 1
+refs 3
+39 0 0
+36 0 0
+38 0 0
+kids 0
