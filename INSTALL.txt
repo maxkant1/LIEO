@@ -1,0 +1,31 @@
+INSTALLATION
+
+Airport/Scenery installation
+
+Just unzip the GITHUB file in a folder of your choice and add the path to the Scenery folder in the FG launcher add-on section. This will enable also the new airport ground-net for the AI traffic. 
+
+AI animated ferry
+
+If you want to install the AI scenery to view the Tirrenia ferry entering the Olbia harbor and docking, just copy the AI folder from the unzipped LIEO folder to the data/AI folder of your FG installation directory (for me Program Files/Flightgear version/data/AI). Then copy the unzipped LIEO Models folder in the data/Models folder of your FG installation (see above). Finally launch FG and select “Enable AI traffic” and “Ferry at LIEO” in the AI scenery menu.
+
+Or
+
+If you don’t care of animated ferries, but you want to see the ferry docked at the pier, just uncomment the line
+
+#OBJECT_SHARED  Models/Maritime/civilian/tirrenia.xml 9.523600 40.921884 3.0 267.34
+
+In your_custom_Scenery_folder\Objects\e000n40\e009n40\3104954.stg file
+
+MD-80 Meridiana livery
+
+For those of you that, like me, love the beautiful MD-80 series, brought to us thanks to the initial development of Gary Neely (aka Bokaroo in fg community) and the further development of Andino Gonthaeler (aka Andino in fg community), I suggest to download and install the md-80 series from Andino’s website at the following link:
+
+https://andinogonthaeler.wordpress.com/page/3/
+
+If you like, you can also install the Meridiana livery copying the content of the folder MD-82/Models/Liveries to the Aircraft/MD-82/Models/Livery directory of your installed MD-82. Then launch FG, choose md-82 as aircraft and Meridiana livery in the md-82 menu.
+
+I also suggest you to follow the Andino’s instructions to update the cabin sounds and announcements in your language (see AUTHOR&COPYING.txt file in MD-82-022.zip distribution file).
+
+Have fun!
+
+Maxkant1
